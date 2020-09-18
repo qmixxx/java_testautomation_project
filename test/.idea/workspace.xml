@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="e57d1a58-28e1-4656-b512-167de9b23edc" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/../Java/.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Java/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Java/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Java/src/main/java/1/App.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Java/src/test/java/1/AppTest.java" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="ProjectId" id="1hgGVG8c8Fdw94bvkqWB7xjP9FX" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+  </component>
+  <component name="RunManager">
+    <configuration name="AppTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="test" />
+      <option name="PACKAGE_NAME" value="1" />
+      <option name="MAIN_CLASS_NAME" value="AppTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.AppTest" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="e57d1a58-28e1-4656-b512-167de9b23edc" name="Default Changelist" comment="" />
+      <created>1600425343611</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1600425343611</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="332" y="50" key="#com.intellij.ide.util.frameworkSupport.AddFrameworkSupportDialog" timestamp="1600425700992">
+      <screen x="0" y="0" width="1215" height="720" />
+    </state>
+    <state x="332" y="50" key="#com.intellij.ide.util.frameworkSupport.AddFrameworkSupportDialog/0.0.1215.720@0.0.1215.720" timestamp="1600425700992" />
+    <state x="388" y="78" key="FileChooserDialogImpl" timestamp="1600425794855">
+      <screen x="0" y="0" width="1215" height="720" />
+    </state>
+    <state x="388" y="78" key="FileChooserDialogImpl/0.0.1215.720@0.0.1215.720" timestamp="1600425794855" />
+    <state x="283" y="65" key="NewModule_or_Project.wizard" timestamp="1600425803994">
+      <screen x="0" y="0" width="1215" height="720" />
+    </state>
+    <state x="283" y="65" key="NewModule_or_Project.wizard/0.0.1215.720@0.0.1215.720" timestamp="1600425803994" />
+    <state x="58" y="0" key="new project wizard" timestamp="1600425755801">
+      <screen x="0" y="0" width="1215" height="720" />
+    </state>
+    <state x="58" y="0" key="new project wizard/0.0.1215.720@0.0.1215.720" timestamp="1600425755801" />
+  </component>
+</project>

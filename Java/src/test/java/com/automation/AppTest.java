@@ -1,4 +1,4 @@
-package 1;
+package com.automation;
 
 import static org.junit.Assert.assertTrue;
 
